@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[我的博客](https://blog.yby1306.xyz)
+
+[关于](https://blog.yby1306.xyz/about/)
 
