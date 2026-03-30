@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 [关于](https://blog.yby1306.xyz/about/)
 
+<iframe src="https://blog.yby1306.xyz"></iframe>
